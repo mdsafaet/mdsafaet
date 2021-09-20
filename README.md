@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **manners**
 
-- 📫 How to reach me **just send me location**
 
-- ⚡ Fun fact **A B LET'S C**
 
 
 <h3 align="left">Languages and Tools:</h3>
