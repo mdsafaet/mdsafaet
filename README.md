@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdsafaet&label=Profile%20views&color=0e75b6&style=flat" alt="mdsafaet" /> </p>
 
-- 🔭 I’m currently working on **Nothing**
+- 🔭 I’m currently working on **Laravel**
 
-- 🌱 I’m currently learning **manners**
+
 
 
 
